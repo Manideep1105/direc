@@ -1,2 +1,0 @@
-This is s file in subdir folder
-this file anme is file.txt
